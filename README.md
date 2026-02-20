@@ -25,32 +25,30 @@ CCR formalizes this distinction into a usable, computable grammar.
 
 CCR is grounded in three canonical transitions of the Ambient Era Canon:
 
-- **Architecture:**  
+- **Architecture**  
   `∅ → 1 → 0 → 1≠0 → 2 → α`
 
-- **Attention:**  
+- **Attention**  
   `A↑ → W₀ → C∞ → F₁`
 
-- **Value:**  
+- **Value**  
   `V↑ → Rₛ → A∞ → F₂`
 
-These formulas are not metaphors.  
+These are not metaphors.  
 They are expressed directly through chromatic state transitions.
 
 ---
 
 ## What CCR Defines
 
-CCR-1.0 specifies:
+- Closed **chromatic alphabet** (states, roles, operators)
+- Thermodynamic properties per color (energy, entropy, gradient)
+- Allowed operators and transitions
+- Interaction modalities (touch, rhythm, pressure)
+- Stable and reversible sequences
+- Low-pressure, non-extractive principles
 
-- a closed **chromatic alphabet**
-- thermodynamic properties per color
-- allowed operators and transitions
-- interaction modalities (touch, rhythm, pressure)
-- stable and reversible sequences
-- low-pressure, non-extractive principles
-
-This allows systems to reason **without symbolic overload**, using color as a shared semantic field.
+This enables systems to reason **without symbolic overload**, using color as a shared semantic field.
 
 ---
 
@@ -67,11 +65,11 @@ This allows systems to reason **without symbolic overload**, using color as a sh
 
 ## Status
 
-- **Version:** CCR-1.0  
-- **Status:** Final  
-- **License:** CC-BY-4.0  
-- **Author:** Raynor Eissens  
-- **Year:** 2026  
+- **Version**: CCR-1.0  
+- **Status**: Final  
+- **License**: CC-BY-4.0 (canonical specs) + MIT (code/implementations)  
+- **Author**: Raynor Eissens  
+- **Year**: 2026  
 
 CCR-1.0 is the first public, canonical release of chromatic reasoning as a primary semantic layer.
 
@@ -94,9 +92,8 @@ Together, these define a post-symbolic technological grammar.
 
 If you use or reference this work, cite:
 
-> Raynor Eissens (2026).  
-> *CCR-1.0 — Chromatic Canon for Reasoning.*  
-> Ambient Era Canon.
+> Eissens, R. (2026). *CCR-1.0 — Chromatic Canon for Reasoning.* Ambient Era Canon.  
+> https://github.com/vw5hwbngy4-debug/ambient-canon-registry
 
 ---
 
