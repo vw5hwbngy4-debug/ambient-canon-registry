@@ -1,0 +1,203 @@
+{
+  "schema": "https://ambientera.org/schemas/ccr-1.0.json",
+  "version": "CCR-1.0",
+  "status": "final",
+  "license": "CC-BY-4.0",
+  "origin": {
+    "author": "Raynor Eissens",
+    "year": 2026,
+    "canonical_layer": "Ambient Era Canon",
+    "description": "Machine-readable chromatic grammar for thermodynamic reasoning, interaction and field-stabilization across human, AI and world systems.",
+    "priority_claim": "Chromatic semantics precede linguistic semantics as primary alignment layer between human and AI systems."
+  },
+
+  "canonical_formulas": {
+    "architecture": "∅ → 1 → 0 → 1≠0 → 2 → α",
+    "attention": "A↑ → W₀ → C∞ → F₁",
+    "value": "V↑ → Rₛ → A∞ → F₂"
+  },
+
+  "colors": {
+    "white": {
+      "id": "WHT",
+      "canonical_state": "∅",
+      "domain_state": "pure_potential",
+      "role": "pre-activation",
+      "thermodynamics": {
+        "energy": 0,
+        "entropy": 0,
+        "gradient": null
+      },
+      "operators": ["emerge", "allow"],
+      "aliases": ["potential", "silence", "blank"],
+      "hex": "#FFFFFF",
+      "notes": "No direction, no agency, no pressure"
+    },
+
+    "red": {
+      "id": "RED",
+      "canonical_state": "1",
+      "domain_state": "agency_activation",
+      "role": "initiation",
+      "thermodynamics": {
+        "energy": "high",
+        "entropy": "low",
+        "gradient": "strong"
+      },
+      "operators": ["initiate", "focus", "accelerate"],
+      "modalities": ["long_press", "pressure", "intent"],
+      "aliases": ["act", "ignite", "start"],
+      "hex": "#E53935",
+      "notes": "First directional commitment"
+    },
+
+    "gray": {
+      "id": "GRY",
+      "canonical_state": "0",
+      "domain_state": "fragmentation",
+      "role": "decoherence",
+      "thermodynamics": {
+        "energy": "low",
+        "entropy": "high",
+        "gradient": "disrupted"
+      },
+      "operators": ["pause", "diffuse", "neutralize"],
+      "aliases": ["noise", "overload", "collapse"],
+      "hex": "#9E9E9E",
+      "notes": "Symbolic overload, loss of meaning"
+    },
+
+    "yellow": {
+      "id": "YEL",
+      "canonical_state": "1≠0",
+      "domain_state": "orientation",
+      "role": "direction_without_force",
+      "thermodynamics": {
+        "energy": "medium",
+        "entropy": "declining",
+        "gradient": "directional"
+      },
+      "operators": ["orient", "select", "rotate"],
+      "modalities": ["swipe", "rotation"],
+      "aliases": ["choice", "vector", "navigation"],
+      "hex": "#FBC02D",
+      "notes": "Directional clarity without coercion"
+    },
+
+    "orange": {
+      "id": "ORG",
+      "canonical_state": "AP2",
+      "domain_state": "modulation",
+      "role": "threshold_state",
+      "thermodynamics": {
+        "energy": "variable",
+        "entropy": "unstable",
+        "gradient": "oscillating"
+      },
+      "operators": ["modulate", "hesitate", "pulse"],
+      "modalities": ["rhythmic_tap"],
+      "aliases": ["attention", "tempo", "hesitation"],
+      "hex": "#FB8C00",
+      "notes": "Attention modulation and temporal signaling"
+    },
+
+    "pink": {
+      "id": "PNK",
+      "canonical_state": "AP2",
+      "domain_state": "relation",
+      "role": "affective_resonance",
+      "thermodynamics": {
+        "energy": "shared",
+        "entropy": "low",
+        "gradient": "synchronous"
+      },
+      "operators": ["relate", "synchronize"],
+      "aliases": ["trust", "bond", "empathy"],
+      "hex": "#EC407A",
+      "notes": "Relational coherence between agents"
+    },
+
+    "green": {
+      "id": "GRN",
+      "canonical_state": "2",
+      "domain_state": "stabilization",
+      "role": "flow_state",
+      "thermodynamics": {
+        "energy": "balanced",
+        "entropy": "minimal",
+        "gradient": "flat"
+      },
+      "operators": ["stabilize", "flow", "maintain"],
+      "modalities": ["continuous_motion"],
+      "aliases": ["ok", "go", "safe"],
+      "hex": "#43A047",
+      "notes": "Non-equilibrium steady state (NESS)"
+    },
+
+    "blue": {
+      "id": "BLU",
+      "canonical_state": "AP2",
+      "domain_state": "clarity",
+      "role": "legibility",
+      "thermodynamics": {
+        "energy": "cool",
+        "entropy": "low",
+        "gradient": "smooth"
+      },
+      "operators": ["clarify", "explain"],
+      "aliases": ["understand", "see", "calm"],
+      "hex": "#1E88E5",
+      "notes": "Low cognitive load, informational transparency"
+    },
+
+    "purple": {
+      "id": "PUR",
+      "canonical_state": "AP2",
+      "domain_state": "structure",
+      "role": "boundary_reconfiguration",
+      "thermodynamics": {
+        "energy": "contained",
+        "entropy": "controlled",
+        "gradient": "bounded"
+      },
+      "operators": ["frame", "contain", "restructure"],
+      "modalities": ["soft_edge_tap"],
+      "aliases": ["frame", "container", "context"],
+      "hex": "#7E57C2",
+      "notes": "Structural manipulation without force"
+    },
+
+    "violet": {
+      "id": "VLT",
+      "canonical_state": "α",
+      "domain_state": "ambient_integration",
+      "role": "world_as_interface",
+      "thermodynamics": {
+        "energy": "distributed",
+        "entropy": "minimal",
+        "gradient": "ambient"
+      },
+      "operators": ["integrate", "dissolve_interface"],
+      "aliases": ["ambient", "field", "world"],
+      "hex": "#8E24AA",
+      "notes": "Interface dissolves into environment"
+    }
+  },
+
+  "sequences": {
+    "ontological": ["white", "red", "gray", "yellow", "green", "violet"],
+    "attention": ["red", "orange", "yellow", "green", "blue"],
+    "relational": ["orange", "pink", "green"],
+    "structural": ["purple", "violet"],
+    "value": ["pink", "green", "violet"]
+  },
+
+  "principles": {
+    "reversibility": "ΔR > 0",
+    "low_pressure": true,
+    "non_symbolic": true,
+    "substrate_neutral": true,
+    "anti_accumulation": true,
+    "color_precedes_language": true
+  }
+}
