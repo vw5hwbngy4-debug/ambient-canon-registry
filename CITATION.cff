@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+
+message: >
+  If you use, reference, or build upon the Thermodynamic Color Reasoning (TCR)
+  specification or the Ambient Era Canon, please cite it as below.
+
+title: "Thermodynamic Color Reasoning (TCR): A Chromatic Grammar for Thermodynamic and Post-Symbolic AI Systems"
+
+version: "TCR-1.0"
+status: "final"
+
+authors:
+  - family-names: Eissens
+    given-names: Raynor
+    affiliation: Ambient Era Canon
+    orcid: ""  # optional, can be added later
+
+year: 2026
+
+date-released: 2026-01-01
+
+doi: 10.5281/zenodo.18681962
+
+url: https://ambientera.org
+repository-code: https://github.com/<your-username>/<your-repo-name>
+
+license: CC-BY-4.0
+
+keywords:
+  - thermodynamic color reasoning
+  - chromatic semantics
+  - color as grammar
+  - human-ai alignment
+  - ambient computing
+  - post-symbolic interfaces
+  - thermodynamic reasoning
+  - field-based interaction
+  - ambient era canon
+  - non-linguistic grammar
+
+abstract: >
+  Thermodynamic Color Reasoning (TCR) formalizes color as a primary,
+  non-symbolic semantic layer for reasoning, alignment and coordination
+  across human cognition, artificial intelligence and world-scale systems.
+  As part of the Ambient Era Canon, TCR defines chromatic states as
+  thermodynamic operators governing agency, stability, transition and
+  ambient integration beyond linguistic representations.
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Eissens
+      given-names: Raynor
+  title: "Thermodynamic Color Reasoning (TCR)"
+  year: 2026
+  doi: 10.5281/zenodo.18681962
+  url: https://ambientera.org
