@@ -1,9 +1,54 @@
-MIT License
+# LICENSE
 
-Copyright (c) 2026 RaynorEissens
+## Ambient Era Canon — Chromatic Color Reasoning (CCR-1.0)
 
+Copyright © 2026  
+**Raynor Eissens**
+
+---
+
+## 1. Canonical Specification License (CC-BY-4.0)
+
+All **canonical documents, specifications, schemas and semantic definitions** in this repository — including but not limited to:
+
+- `ccr-1.0.json`
+- chromatic vocabularies
+- canonical formulas
+- semantic mappings
+- documentation files (`.md`, `.json`, `.yaml`, `.schema`)
+- conceptual diagrams and explanatory texts
+
+are licensed under the **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**.
+
+### You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+- Use commercially
+
+### Under the following condition:
+- **Attribution** — You must give appropriate credit to  
+  **Raynor Eissens**, provide a link to this repository or canonical reference,  
+  and indicate if changes were made.
+
+Full license text:  
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## 2. Software & Reference Implementations (MIT License)
+
+Any **code, demos, simulations, SDKs or reference implementations** that may be included in this repository — including but not limited to files under directories such as:
+
+- `/code`
+- `/demo`
+- `/examples`
+- `/sdk`
+
+are licensed under the **MIT License**, unless explicitly stated otherwise in the file header.
+
+### MIT License Summary:
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this software and associated documentation files (the “Software”), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
@@ -12,10 +57,50 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## 3. Canonical Integrity & Attribution Notice
+
+The **Chromatic Color Reasoning (CCR)** system is part of the **Ambient Era Canon**.
+
+While implementations may vary, the following must be preserved when referencing the canon:
+
+- Attribution to **Raynor Eissens**
+- Clear indication of derivation or modification
+- No implication of canonical authorship transfer
+
+This license **does not grant permission** to remove or obscure authorship or to present modified versions as the original canonical specification.
+
+---
+
+## 4. Priority & Origin Statement
+
+CCR-1.0 constitutes a **public prior-art disclosure** of chromatic semantics as a primary, non-symbolic alignment layer between human and AI systems.
+
+The canonical origin of this framework is:
+
+> **Raynor Eissens — Ambient Era Canon (2026)**
+
+---
+
+## 5. Disclaimer
+
+THE MATERIALS AND SOFTWARE ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS WORK.
+
+---
+
+## Contact
+
+For canonical references, collaborations or clarification:
+- https://ambientera.org
+- https://ambientarchitectures.org
